@@ -1,0 +1,1 @@
+export const cities = ["Beijing", "Shanghai", "Guangzhou", "Shenzhen", "Chengdu", "Hangzhou", "Xi'an", "Nanjing", "Chongqing", "Wuhan"];
