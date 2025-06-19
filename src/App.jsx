@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import users from './data/data';
+import users from './data/demo';
 import { cities } from './data/defaultData';
 import { Card, Space, Table } from 'antd';
 import { AdvancedSearchForm } from "./components/index";
